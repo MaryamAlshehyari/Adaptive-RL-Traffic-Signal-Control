@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🚦 Adaptive Traffic Signal Control with Lightweight Reinforcement Learning
 
 This project presents a comparative analysis of several lightweight reinforcement learning (RL) algorithms applied to adaptive traffic signal control. It evaluates the practicality of Q-Learning, DQN, QRDQN, and PPO models under real-world and synthetic traffic scenarios using the `sumo-rl` environment.
