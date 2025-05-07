@@ -84,7 +84,7 @@ Visual results, metric tables, and training curves are in `/outputs/` and `/plot
 
 * `outputs/` → CSV logs with metrics per episode
 * `plots/` → Combined graphs for comparison
-* `iot_final_report.pdf` → Full academic writeup
+* `IoT_Final_Report-2.pdf` → Full academic writeup
 
 ---
 
