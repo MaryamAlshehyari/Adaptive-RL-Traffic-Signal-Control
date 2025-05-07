@@ -1,0 +1,34 @@
+<nodes>
+<node id="intersection_0_1" x="-800.0" y="0.0" type="traffic_light"/>
+<node id="intersection_0_2" x="-800.0" y="600.0" type="traffic_light"/>
+<node id="intersection_0_3" x="-800.0" y="1200.0" type="traffic_light"/>
+<node id="intersection_0_4" x="-800.0" y="1800.0" type="traffic_light"/>
+<node id="intersection_1_0" x="0.0" y="-600.0" type="traffic_light"/>
+<node id="intersection_1_1" x="0.0" y="0.0" type="traffic_light"/>
+<node id="intersection_1_2" x="0.0" y="600.0" type="traffic_light"/>
+<node id="intersection_1_3" x="0.0" y="1200.0" type="traffic_light"/>
+<node id="intersection_1_4" x="0.0" y="1800.0" type="traffic_light"/>
+<node id="intersection_1_5" x="0.0" y="2400.0" type="traffic_light"/>
+<node id="intersection_2_0" x="800.0" y="-600.0" type="traffic_light"/>
+<node id="intersection_2_1" x="800.0" y="0.0" type="traffic_light"/>
+<node id="intersection_2_2" x="800.0" y="600.0" type="traffic_light"/>
+<node id="intersection_2_3" x="800.0" y="1200.0" type="traffic_light"/>
+<node id="intersection_2_4" x="800.0" y="1800.0" type="traffic_light"/>
+<node id="intersection_2_5" x="800.0" y="2400.0" type="traffic_light"/>
+<node id="intersection_3_0" x="1600.0" y="-600.0" type="traffic_light"/>
+<node id="intersection_3_1" x="1600.0" y="0.0" type="traffic_light"/>
+<node id="intersection_3_2" x="1600.0" y="600.0" type="traffic_light"/>
+<node id="intersection_3_3" x="1600.0" y="1200.0" type="traffic_light"/>
+<node id="intersection_3_4" x="1600.0" y="1800.0" type="traffic_light"/>
+<node id="intersection_3_5" x="1600.0" y="2400.0" type="traffic_light"/>
+<node id="intersection_4_0" x="2400.0" y="-600.0" type="traffic_light"/>
+<node id="intersection_4_1" x="2400.0" y="0.0" type="traffic_light"/>
+<node id="intersection_4_2" x="2400.0" y="600.0" type="traffic_light"/>
+<node id="intersection_4_3" x="2400.0" y="1200.0" type="traffic_light"/>
+<node id="intersection_4_4" x="2400.0" y="1800.0" type="traffic_light"/>
+<node id="intersection_4_5" x="2400.0" y="2400.0" type="traffic_light"/>
+<node id="intersection_5_1" x="3200.0" y="0.0" type="traffic_light"/>
+<node id="intersection_5_2" x="3200.0" y="600.0" type="traffic_light"/>
+<node id="intersection_5_3" x="3200.0" y="1200.0" type="traffic_light"/>
+<node id="intersection_5_4" x="3200.0" y="1800.0" type="traffic_light"/>
+</nodes>
